@@ -1,0 +1,9 @@
+E:\project\NasrSample\Nasr.API.Core\bin\Debug\netstandard2.1\Nasr.API.Core.deps.json
+E:\project\NasrSample\Nasr.API.Core\bin\Debug\netstandard2.1\Nasr.API.Core.dll
+E:\project\NasrSample\Nasr.API.Core\bin\Debug\netstandard2.1\Nasr.API.Core.pdb
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.csprojAssemblyReference.cache
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.csproj.CoreCompileInputs.cache
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.AssemblyInfoInputs.cache
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.AssemblyInfo.cs
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.dll
+E:\project\NasrSample\Nasr.API.Core\obj\Debug\netstandard2.1\Nasr.API.Core.pdb

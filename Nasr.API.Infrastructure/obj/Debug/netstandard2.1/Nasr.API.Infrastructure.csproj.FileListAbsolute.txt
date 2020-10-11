@@ -1,0 +1,12 @@
+E:\project\NasrSample\Nasr.API.Infrastructure\bin\Debug\netstandard2.1\Nasr.API.Infrastructure.deps.json
+E:\project\NasrSample\Nasr.API.Infrastructure\bin\Debug\netstandard2.1\Nasr.API.Infrastructure.dll
+E:\project\NasrSample\Nasr.API.Infrastructure\bin\Debug\netstandard2.1\Nasr.API.Infrastructure.pdb
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.csprojAssemblyReference.cache
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.csproj.CoreCompileInputs.cache
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.AssemblyInfoInputs.cache
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.AssemblyInfo.cs
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.dll
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.pdb
+E:\project\NasrSample\Nasr.API.Infrastructure\bin\Debug\netstandard2.1\Nasr.API.Core.dll
+E:\project\NasrSample\Nasr.API.Infrastructure\bin\Debug\netstandard2.1\Nasr.API.Core.pdb
+E:\project\NasrSample\Nasr.API.Infrastructure\obj\Debug\netstandard2.1\Nasr.API.Infrastructure.csproj.CopyComplete
